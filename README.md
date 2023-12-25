@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="middle" alt="Coding" width="400" src="https://e.top4top.io/p_2915jrmu80.jpg">
+<img align="middle" alt="Coding" width="900" src="https://e.top4top.io/p_2915jrmu80.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="wann-dev" /> </p>
 
