@@ -1,6 +1,13 @@
+<h1 align="center">
+  <b>Selamat datang di github wann-dev👨‍💻 , <b> <a href="https://api.whatsapp.com/send/?phone=6283159820330" target="blank">whatsapp</a> saya
+</h1>
+
+
+![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
+
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://c.top4top.io/p_29154ecio0.jpg">
+<img align="right" alt="Coding" width="400" src="https://e.top4top.io/p_2915jrmu80.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="wann-dev" /> </p>
 
