@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wann-dev&label=Profile%20views&color=0e75b6&style=flat" alt="wann-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ridwannz_" target="blank"><img src="https://img.shields.io/twitter/follow/ridwannz_?logo=twitter&style=for-the-badge" alt="ridwannz_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/voltwann_" target="blank"><img src="https://img.shields.io/twitter/follow/voltwann_?logo=twitter&style=for-the-badge" alt="ridwannz_" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ridwannz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridwannz_" height="30" width="40" /></a>
+<a href="https://twitter.com/voltwann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridwannz_" height="30" width="40" /></a>
 <a href="https://fb.com/volt wann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100087039931826&mibextid=rS40aB7S9Ucbxw6v]" height="30" width="40" /></a>
 <a href="https://instagram.com/maunyaalok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maunyaalok" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wan-god++" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wan-god++" height="30" width="40" /></a>
