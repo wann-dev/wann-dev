@@ -3,7 +3,7 @@
 </h1>
 
 
-![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
+
 
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
